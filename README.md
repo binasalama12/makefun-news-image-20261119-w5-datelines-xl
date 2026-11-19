@@ -1,8 +1,8 @@
-# makefun-news-image-20261119-w5-datelines
+# makefun-news-image-20261119-w5-datelines-xl
 
 [![make.fun · news-image-20261119](https://make.fun/badge/news-image-20261119.svg)](https://make.fun/bounty/news-image-20261119?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
-[![rank](https://make.fun/badge/news-image-20261119/binasalama12/makefun-news-image-20261119-w5-datelines/rank.svg)](https://make.fun/bounty/news-image-20261119/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
-[![reward](https://make.fun/badge/news-image-20261119/binasalama12/makefun-news-image-20261119-w5-datelines/reward.svg)](https://make.fun/bounty/news-image-20261119?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
+[![rank](https://make.fun/badge/news-image-20261119/binasalama12/makefun-news-image-20261119-w5-datelines-xl/rank.svg)](https://make.fun/bounty/news-image-20261119/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
+[![reward](https://make.fun/badge/news-image-20261119/binasalama12/makefun-news-image-20261119-w5-datelines-xl/reward.svg)](https://make.fun/bounty/news-image-20261119?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
 
 One image, the whole of Thursday 19 November 2026: 40 verified stories drawn and typeset as a single front page. Two hero panels lead — the first Trump–Xi–Putin trilateral in Shenzhen and GTA VI's worldwide launch — above 12 pictured panels (the ICJ's Rohingya ruling, Anthropic's record $81.3bn IPO, the third Crimean Bridge strike, COP31, a $190.4m Van Gogh, Voyager 1 at one light-day and more), a dot-matrix world map whose numbered pins match the stories, and 26 numbered briefs from Washington to Wellington.
 
